@@ -31,7 +31,7 @@ public static class DBInitializer
         var goReview = new Review
         {
             Date = DateTime.Now,
-            Text = "Golang is created when waiting for C++ to compile",
+            Text = "Go's mascot is the gopher. The gopher has no name. It has a jelly bean shaped body, microscopic limbs, gigantic eyes, and two teeth.",
             UserId = "andrej"
         };
 
